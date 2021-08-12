@@ -20,5 +20,8 @@ module.exports = {
             link: '/team.md',
           }
       ],
+      sidebar: false,
+      contributors: false,
+      lastUpdated: false
     },
   }
