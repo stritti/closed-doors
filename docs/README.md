@@ -1,7 +1,7 @@
 ---
 lang: de-DE
 tile: Behind closed Doors
-description: Landingpage zum Kurzfilm 'Behind closed Doors'
+description: Ein humorvoller studentischer Kurzfilm, der mit Vorurteilen spielt, um auf diese aufmerksam zu machen.
 ---
 
 # Behind closed Doors
