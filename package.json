@@ -1,0 +1,17 @@
+{
+  "name": "behind-closed-doors",
+  "version": "1.0.0",
+  "description": "Landing Page of Short Clip \"Beyond closed Doors\"",
+  "main": "index.js",
+  "repository": "https://github.com/stritti/beyond-closed-doors.git",
+  "author": "Stephan Strittmatter <stephan@st-strittmatter.name>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.23"
+  }
+}
