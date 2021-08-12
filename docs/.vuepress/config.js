@@ -8,6 +8,10 @@ module.exports = {
       navbar: [
         // NavbarItem
         {
+            text: 'Kickstarter',
+            link: 'https://www.kickstarter.com/projects/415863944/behind-closed-doors-3',
+          },
+        {
           text: 'Sponsoren',
           link: '/sponsors.md',
         },
