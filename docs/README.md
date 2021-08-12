@@ -13,7 +13,7 @@ Ein humorvoller studentischer Kurzfilm, der mit Vorurteilen spielt, um auf diese
 ![Behind closed Doors](/images/behind-closed-doors.jpg)
 
 ::: tip Kickstarter
-Unsterstütze unser Projekt auf [Kickstarter](https://www.kickstarter.com/projects/415863944/behind-closed-doors-3)
+Unterstütze unser Projekt auf [Kickstarter](https://www.kickstarter.com/projects/415863944/behind-closed-doors-3)
 :::
 
 ## Logline
