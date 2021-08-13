@@ -6,15 +6,26 @@ description: Das Produktionsteam von 'Behind closed Doors'
 
 # Das Produktions-Team
 
+## Regie und Produktionsleitung
+
+### Noah Bach
+
+![Noah Bach](/images/team/noah-bach.png)
+
+TBD
+
 ## Licht & Ton
 
 ### Hannes Wessbecher
 
+![Hannes Wessbecher](/images/team/hannes-wessbecher.png)
 TBD
 
 ## Kamera
 
 ### Jonas Strittmatter
+
+![Jonas Strittmatter](/images/team/jonas-strittmatter.png)
 
 ...mein Name ist Jonas Strittmatter, ich bin 21 Jahre alt und komme aus Stockach am Bodensee.
 
@@ -22,10 +33,6 @@ Ich studiere derzeit an der DHBW Ravensburg Mediendesign. Weshalb ich mich tägl
 
 ### Mats Bohle
 
-TBD
-
-## Regie und Produktionsleitung
-
-### Noah Bach
+![Mats Bohle](/images/team/mats-bohle.png)
 
 TBD
