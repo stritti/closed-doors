@@ -1,9 +1,9 @@
 {
-  "name": "behind-closed-doors",
+  "name": "closed-doors",
   "version": "1.0.0",
-  "description": "Landing Page of Short Clip \"Beyond closed Doors\"",
+  "description": "Landing Page of Short Clip \"Closed Doors\"",
   "main": "index.js",
-  "repository": "https://github.com/stritti/beyond-closed-doors.git",
+  "repository": "https://github.com/stritti/closed-doors.git",
   "author": "Stephan Strittmatter <stephan@st-strittmatter.name>",
   "license": "MIT",
   "private": true,

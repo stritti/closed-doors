@@ -1,6 +1,6 @@
 module.exports = {
     lang: 'de-DE',
-    title: 'Behind closed Doors',
+    title: 'Closed Doors',
     description: 'Ein humorvoller studentischer Kurzfilm, der mit Vorurteilen spielt, um auf diese aufmerksam zu machen.',
 
     themeConfig: {

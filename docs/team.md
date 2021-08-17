@@ -1,10 +1,10 @@
 ---
 lang: de-DE
-tile: Das Team - Behind closed Doors
-description: Das Produktionsteam von 'Behind closed Doors'
+tile: Das Team - Closed Doors
+description: Das Team von 'Closed Doors'
 ---
 
-# Das Produktions-Team
+# Das Team
 
 ## Schauspieler:innen
 

@@ -1,19 +1,19 @@
 ---
 lang: de-DE
-tile: Behind closed Doors
+tile: Closed Doors
 description: Ein humorvoller studentischer Kurzfilm, der mit Vorurteilen spielt, um auf diese aufmerksam zu machen.
 ---
 
-# Behind closed Doors
+# Closed Doors
 
 _Live-Action / Realfilm | 5 min_
 
 Ein humorvoller studentischer Kurzfilm, der mit Vorurteilen spielt, um auf diese aufmerksam zu machen.
 
-![Behind closed Doors](/images/behind-closed-doors.jpg)
+![Closed Doors](/images/closed-doors.jpg)
 
 ::: tip Kickstarter
-Unterstütze unser Projekt auf [Kickstarter](https://www.kickstarter.com/projects/415863944/behind-closed-doors-3)
+Unterstütze unser Projekt auf [Kickstarter](https://www.kickstarter.com/projects/415863944/closed-doors-3)
 :::
 
 ## Logline

@@ -1,7 +1,7 @@
 ---
 lang: de-DE
-tile: Sponsoren - Behind closed Doors
-description: Sponsoren des Kurzfilms 'Behind closed Doors'
+tile: Sponsoren - Closed Doors
+description: Sponsoren des Kurzfilms 'Closed Doors'
 ---
 
 # Sponsoren
@@ -12,7 +12,7 @@ Alle Schauspieler:innen und Mitarbeiter:innen am Set arbeiten ohne Entlohnung. D
 Unterstütze unser Projekt auf [Kickstarter](https://www.kickstarter.com/projects/415863944/behind-closed-doors-3)
 :::
 
-**Wir bedanken uns bei den Sponsoren für ihre Unterstützung des Kurzfilms _Behind closed Doors_.**
+**Wir bedanken uns bei den Sponsoren für ihre Unterstützung des Kurzfilms _Closed Doors_.**
 
 ## Unternehmen
 
