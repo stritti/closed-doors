@@ -12,7 +12,9 @@ description: Das Produktionsteam von 'Behind closed Doors'
 
 ![Noah Bach](/images/team/noah-bach.png)
 
-TBD
+Hallo, mein Name ist Noah Bach ich bin 20 Jahre alt und komme aus Breitnau im Hochschwarzwald.
+
+Ich absolviere derzeit mein duales Mediendesign-Studium an der DHBW Ravensburg. Zum Mediendesign bin ich meinen Sportverein gekommen, dort habe ich angefangen Videos von und für Events zu schneiden. Einer meiner Schwerpunkte liegt somit im Bereich Video und Animation. Durch mein Studium konnte ich einen weiteren Schwerpunkt aufbauen, das Webdesign und die SEO-Optimierung von Websites. Als leidenschaftlicher und lizensierter Drohnenpilot, hebe ich auch gerne mal ab und erstelle meistens schöne Luftaufnahmen aus dem Schwarzwald. Als solcher durfte ich auch schon an mehreren SWR-Produktionen mitwirken. Meistens bin ich somit in Premiere Pro, After Effects, Illustrator und Adobe XD unterwegs. Eine weitere Stärke von mir liegt in allem Organisatorischen, auch wenn ich meistens mal wieder nicht weiß wo ich mein Handy gelassen habe, behalte ich bei Produktionen den Überblick.
 
 ## Licht & Ton
 
