@@ -15,7 +15,10 @@ Ein humorvoller studentischer Kurzfilm, der mit Vorurteilen spielt, um auf diese
 ::: tip Sponsoring
 Wir brauchen Deine Unterstützung, um als Studierende dieses Projekt umsetzen zu können.
 
-**👉 Unterstütze jetzt unser Projekt auf [Kickstarter](https://www.kickstarter.com/projects/415863944/behind-closed-doors-3)**
+**👉 Jetzt das Projekt auf
+    [<badge type="tip" vertical="middle">Kickstarter unterstützen</badge>](https://www.kickstarter.com/projects/415863944/behind-closed-doors-3)!**
+
+_[Warum](/sponsors/why.html) brauchen wir deine Unterstützung?_
 :::
 
 ## Logline

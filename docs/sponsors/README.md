@@ -6,13 +6,19 @@ description: Sponsoren des Kurzfilms 'Closed Doors'
 
 # Sponsoren
 
-Alle Schauspieler:innen und Mitarbeiter:innen am Set arbeiten ohne Entlohnung. Die Herausforderung liegt in der Budgetbeschaffung für Equipment und Location. Hier benötigen wir als Studenten Unterstützung.
+::: tip Sponsoring
+Wir brauchen Deine Unterstützung, um als Studierende dieses Projekt umsetzen zu können.
 
-::: tip Kickstarter
-Unterstütze unser Projekt auf [Kickstarter](https://www.kickstarter.com/projects/415863944/behind-closed-doors-3)
+**👉 Jetzt das Projekt auf
+    [<badge type="tip" vertical="middle">Kickstarter unterstützen</badge>](https://www.kickstarter.com/projects/415863944/behind-closed-doors-3)!**
+
+_[Warum](/sponsors/why.html) brauchen wir deine Unterstützung?_
 :::
 
+---
+
 **Wir bedanken uns bei den Sponsoren für ihre Unterstützung des Kurzfilms _Closed Doors_.**
+Ohne ihre Unterstützung wäre dieser Kurzfilm nicht möglich!
 
 ## Unternehmen
 
