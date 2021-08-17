@@ -31,3 +31,25 @@ Hierzu benötigen wir deine Unterstützung!
 
 :::
 
+## Was bekommst du für deine Unterstützung?
+
+Auf Kickstarter haben wir verschiedene Pakete für dich zusammen gestellt:
+
+### Filmplakat
+
+Du bekommst das Filmplakat (A4) unseres Kurzfilms, zu dir nach Hause geschickt! Inklusive digitaler Zugang zum finalen Kurzfilm.
+
+### Storyboard
+
+Du bekommst ein PDF unseres gesamten, gezeichneten Storyboards. Inklusive digitaler Zugang zum finalen Kurzfilm.
+
+### Erwähnung im Abspann
+
+Bei einer Spende von mindestens 75€ wirst du namentlich in unserem Filmabspann genannt. Inklusive digitaler Zugang zum finalen Kurzfilm.
+
+### Product Placement und Sachspenden
+
+Du hast, vielleicht als Unternehmen, einen weiteren Vorschlag? Z.B. würdest du gerne das Cathering am Set
+übernehmen oder du kannst uns eine Location kostenlos zur Verfügung stellen?
+
+[Lass uns darüber reden](mailto:jonas@st-strittmatter.name)!
