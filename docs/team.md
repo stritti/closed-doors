@@ -1,6 +1,5 @@
 ---
 lang: de-DE
-tile: Das Team - Closed Doors
 description: Das Team von 'Closed Doors'
 ---
 

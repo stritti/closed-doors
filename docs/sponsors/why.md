@@ -1,6 +1,5 @@
 ---
 lang: de-DE
-tile: Warum Sponsoring? - Closed Doors
 description: Warum benötigt der Kurzfilm 'Closed Doors' Sponsoren?
 ---
 

@@ -1,6 +1,5 @@
 ---
 lang: de-DE
-tile: Sponsoren - Closed Doors
 description: Sponsoren des Kurzfilms 'Closed Doors'
 ---
 
