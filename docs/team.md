@@ -30,9 +30,9 @@ description: Das Team von 'Closed Doors'
 
 [mehr über Robert Semmann](https://de.stagepool.com/cvbase/cv/respectlifestylemaga/360644)
 
-## Regie und Produktionsleitung
+## Produktion
 
-### Noah Bach
+### Regie und Produktionsleitung: Noah Bach
 
 ![Noah Bach](/images/team/noah-bach.png)
 
@@ -40,9 +40,7 @@ Hallo, mein Name ist Noah Bach ich bin 20 Jahre alt und komme aus Breitnau im Ho
 
 Ich absolviere derzeit mein duales Mediendesign-Studium an der DHBW Ravensburg. Zum Mediendesign bin ich meinen Sportverein gekommen, dort habe ich angefangen Videos von und für Events zu schneiden. Einer meiner Schwerpunkte liegt somit im Bereich Video und Animation. Durch mein Studium konnte ich einen weiteren Schwerpunkt aufbauen, das Webdesign und die SEO-Optimierung von Websites. Als leidenschaftlicher und lizensierter Drohnenpilot, hebe ich auch gerne mal ab und erstelle meistens schöne Luftaufnahmen aus dem Schwarzwald. Als solcher durfte ich auch schon an mehreren SWR-Produktionen mitwirken. Meistens bin ich somit in Premiere Pro, After Effects, Illustrator und Adobe XD unterwegs. Eine weitere Stärke von mir liegt in allem Organisatorischen, auch wenn ich meistens mal wieder nicht weiß wo ich mein Handy gelassen habe, behalte ich bei Produktionen den Überblick.
 
-## Licht & Ton
-
-### Hannes Wessbecher
+### Licht & Ton: Hannes Wessbecher
 
 ![Hannes Wessbecher](/images/team/hannes-wessbecher.png)
 
@@ -56,9 +54,7 @@ Während meiner Ausbildung habe ich Erfahrung in den verschiedensten Bereichen d
 - 07/2019: Fotografenmeister (Bestmeister der Handwerkskammer für München und Oberbayern)
 - seit 01.10.2019: Duales Studium "Mediendesign" an der DHBW-Ravensburg
 
-## Kamera
-
-### Jonas Strittmatter
+### Kamera: Jonas Strittmatter
 
 ![Jonas Strittmatter](/images/team/jonas-strittmatter.png)
 
@@ -66,7 +62,7 @@ Während meiner Ausbildung habe ich Erfahrung in den verschiedensten Bereichen d
 
 Ich studiere derzeit an der DHBW Ravensburg Mediendesign. Weshalb ich mich täglich mit Design auseinander setze. Insbesondere Logo und Gestaltung im Print Bereich, sind meine bisherigen Einsatzgebiete. Aufgrund dessen besitze ich Grundkenntnisse in InDesign, Illustrator und Photoshop. Nebenbei widme ich mich hobbymäßig der Foto- und Videografie. Hauptsächlich arbeite ich hier mit Lightroom, Photoshop, PremierePro und AfterEffects.
 
-### Mats Bohle
+### Kamera: Mats Bohle
 
 ![Mats Bohle](/images/team/mats-bohle.png)
 
