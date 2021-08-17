@@ -4,7 +4,7 @@ tile: Closed Doors
 description: Ein humorvoller studentischer Kurzfilm, der mit Vorurteilen spielt, um auf diese aufmerksam zu machen.
 ---
 
-# Closed Doors
+# Closed Doors - der Film
 
 _Live-Action / Realfilm | 5 min_
 
