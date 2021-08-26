@@ -9,7 +9,7 @@ _Live-Action / Realfilm | 5 min_
 
 Ein humorvoller studentischer Kurzfilm, der mit Vorurteilen spielt, um auf diese aufmerksam zu machen.
 
-![Closed Doors](/images/closed-doors.jpg)
+![Closed Doors](/images/closed-doors.png)
 
 ::: tip Sponsoring
 Wir brauchen Deine Unterstützung, um als Studierende dieses Projekt umsetzen zu können.
@@ -24,7 +24,7 @@ _[Warum](/sponsors/why.html) brauchen wir deine Unterstützung?_
 
 Was passiert eigentlich wenn sich bei einem Aufzug die Türen schließen? Wollte nicht jeder schonmal Spion spielen und schauen was zwischen den Stockwerken passiert. Wie nutzt eine Fitness Trainerin oder ein Banker diese aufgezwungene Auszeit?
 
-Gäbe es nur eine Überwachungskamera, die all das aufzeichnen würde….
+Gäbe es nur eine Überwachungskamera, die all das aufzeichnen würde ….
 
 ## Synopsis
 
