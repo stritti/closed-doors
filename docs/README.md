@@ -9,7 +9,7 @@ _Live-Action / Realfilm | 5 min_
 
 Ein humorvoller studentischer Kurzfilm, der mit Vorurteilen spielt, um auf diese aufmerksam zu machen.
 
-![Closed Doors](/images/closed-doors.png)
+![Closed Doors, Security Amer, Amer El-Erwadi](/images/Closed-Doors-Amer-El-Erwadi.JPG)
 
 ::: tip Sponsoring
 Wir brauchen Deine Unterstützung, um als Studierende dieses Projekt umsetzen zu können.
@@ -29,6 +29,8 @@ Gäbe es nur eine Überwachungskamera, die all das aufzeichnen würde ….
 ## Synopsis
 
 Der Security Manager Holger sieht das was sonst niemand sieht. Sobald sich die Türen des Aufzugs schließen hat nur noch er über die Schaltzentrale einen Blick in den Aufzug. Dabei sieht er die unterschiedlichsten Menschen kommen und gehen, jeden Tag.
+
+![Closed Doors](/images/Closed-Doors.JPG)
 
 Der Zuschauer hat diesen exklusiven Einblick vorerst nicht. Er bleibt in der Lobby und sieht die verschiedenen Menschen wie sie den Aufzug betreten und dann im neuen Stockwerk wieder verlassen. Atmosphärische Geräusche und das markante "Aufzugsbling" sind das einzige was man hört. So drängt sich die ganze Zeit die Frage in den Kopf: Was passiert im Aufzug?
 

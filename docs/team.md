@@ -7,27 +7,21 @@ description: Das Team von 'Closed Doors'
 
 [[toc]]
 
-## Schauspieler:innen
+## Schauspieler
 
-### Fitnesstrainerin: Tanja Müller
+### Security Amar: Amer El-Erwadi
 
-[mehr über Tanja Müller](https://www.tanjamuellerofficial.com)
-
-### Bankangestellter: Jeffy Jacobson
-
-[mehr über Jeffy Jacobson](https://www.crew-united.com/de/Jeffy-Jacobson_276647.html)
-
-### Reinigungskraft: Ngako-Keuni
-
-[mehr über Ngako-Keuni](https://de.ngakokeuni.com)
-
-### Bodybuilder: Amer El-Erwadi
+![Amer El-Erwadi](/images/Closed-Doors-Amer-El-Erwadi.JPG)
 
 [mehr über Amer El-Erwadi](https://www.amerelerwadi.com)
 
-### Nerd: Robert Semmann
+### Security Manni: Benedikt Bachert
 
-[mehr über Robert Semmann](https://de.stagepool.com/cvbase/cv/respectlifestylemaga/360644)
+[mehr über Benedikt Bachert](https://www.benedikt-bachert.de/)
+
+### Techniker/Hausmeister: Mischa Mang
+
+[mehr über Mischa Mang](https://filmmakers.de/mischa-mang)
 
 ## Produktion
 
