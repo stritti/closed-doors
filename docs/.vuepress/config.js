@@ -2,7 +2,7 @@ const { path } = require('@vuepress/utils')
 
 module.exports = {
     lang: 'de-DE',
-    title: 'Closed Doors - der Film',
+    title: 'unnoticed - der Film',
     description: 'Ein humorvoller studentischer Kurzfilm, der mit Vorurteilen spielt, um auf diese aufmerksam zu machen.',
     theme: path.resolve(__dirname, './theme'),
 
