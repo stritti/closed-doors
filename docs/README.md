@@ -62,6 +62,6 @@ für Jedermann verdeutlichen und die Frage aufwerfen
 „Was passiert eigentlich wenn sich bei einem Aufzug die Türen schließen?“
 
 
-## Visual Storybeat
+## Visual Storyboard
 
 ![Visual Storybeats](/images/visual-storybeats.png)
