@@ -3,13 +3,13 @@ lang: de-DE
 description: Ein humorvoller studentischer Kurzfilm, der mit Vorurteilen spielt, um auf diese aufmerksam zu machen.
 ---
 
-# Closed Doors - der Film
+# "unnoticed" - der Film
 
 _Live-Action / Realfilm | 5 min_
 
 Ein humorvoller studentischer Kurzfilm, der mit Vorurteilen spielt, um auf diese aufmerksam zu machen.
 
-![Closed Doors, Security Amer, Amer El-Erwadi](/images/Closed-Doors-Amer-El-Erwadi.JPG)
+![unnoticed, Security Amer, Amer El-Erwadi](/images/Closed-Doors-Amer-El-Erwadi.JPG)
 
 ::: tip Sponsoring
 Wir brauchen Deine Unterstützung, um als Studierende dieses Projekt umsetzen zu können.
@@ -22,23 +22,45 @@ _[Warum](/sponsors/why.html) brauchen wir deine Unterstützung?_
 
 ## Logline
 
-Was passiert eigentlich wenn sich bei einem Aufzug die Türen schließen? Wollte nicht jeder schonmal Spion spielen und schauen was zwischen den Stockwerken passiert. Wie nutzt eine Fitness Trainerin oder ein Banker diese aufgezwungene Auszeit?
+Was passiert eigentlich wenn sich bei einem Aufzug die Türen 
+schließen? Diese Frage stellen sich auch die beiden eingefleischten 
+Securitys als sie plötzlich bemerken, dass etwas passiert ist, was 
+so nicht möglich sein kann. Dabei stellen sie die absurdesten 
+Überlegungen an und befinden sich dabei auf dem Holzweg ... 
 
-Gäbe es nur eine Überwachungskamera, die all das aufzeichnen würde ….
+Wie es dazu wohl gekommen ist ...
 
 ## Synopsis
 
-Der Security Manager Holger sieht das was sonst niemand sieht. Sobald sich die Türen des Aufzugs schließen hat nur noch er über die Schaltzentrale einen Blick in den Aufzug. Dabei sieht er die unterschiedlichsten Menschen kommen und gehen, jeden Tag.
+Manny und Alex beobachten den ganzen Tag in ihrem Überwachungsraum 
+Überwachungsbilder. Dieser eintönige Alltag wird plötzlich von einem 
+Zwischenfall unterbrochen. Drei Personen gehen in den Aufzug und 
+innerhalb eines Stockwerkes verschwindet eine dieser Personen. 
+Völlig verwirrt, versuchen Manny und Alex diesen sonderbaren Fall 
+zu lösen. Dabei versuchen sie sich in die Situation hineinzuversetzen 
+und stellen sich gemeinsam vor, was in dieser kurzen Auszeit in der 
+Überwachung passiert sein könnte. Dabei kann es schon mal vorkommen, 
+dass ein Tiger die dritte Person gefressen hat. 
+
+Um die Diskussion noch weiter anzufeuern, kommt im Laufe des Geschehens 
+noch eine dritte Person hinzu die mit den beiden auf einen amüsante Art 
+und Weise mit diskutiert.
 
 ![Closed Doors](/images/Closed-Doors.JPG)
 
-Der Zuschauer hat diesen exklusiven Einblick vorerst nicht. Er bleibt in der Lobby und sieht die verschiedenen Menschen wie sie den Aufzug betreten und dann im neuen Stockwerk wieder verlassen. Atmosphärische Geräusche und das markante "Aufzugsbling" sind das einzige was man hört. So drängt sich die ganze Zeit die Frage in den Kopf: Was passiert im Aufzug?
+Der Betrachter wird mit der Kamerabewegung aus der Situation geholt, 
+wobei ihm dabei auffällt, dass die Diskussion völlig überflüssig gewesen 
+ist, da die Problematik die ganze Zeit auf einen technischen Fehler 
+zurückzuführen ist. (Die ganze Zeit waren die Input-Kabel der 
+Überwachungskameras vertauscht und die beiden haben nicht Stockwerk 1 
+mit Stockwerk 2 verglichen sondern Stockwerk 1 mit Stockwerk 4.) 
 
-Genau darum geht es nämlich. Jeder hat sein Guilty Pleasure, doch niemand kennt das des anderen. Im Moment in dem sich die Türen wieder öffnen macht jeder sich sein eigenes Bild was da drin wohl passiert sein mag. Und damit spielt der Film.
 
-An was denkt man wenn eine attraktive junge Frau und ein Banker verschwitzt aus dem Aufzug kommen? Und hat die Putzkraft geraucht oder warum kommt sie mit einer riesigen Rauchwolke aus dem Aufzug? Diese Vorurteile werden auf witzige Art und Weise aufgeklärt, wenn man im Abspann den Security Mann sieht wie er all diese Ereignisse auf seinem Monitor beobachtet. Solche Ereignisse lassen einen leicht über Menschen urteilen, wie auch in unserem Fall unser Protagonist. Genervt von all den Vorfällen im Aufzug, packt er seinen Kram und verlässt die Schaltzentrale. Er nimmt den Aufzug und in dem Moment wo sich die Türen schließen, zeigt sich auch sein Guilty Pleasure. Zurück bleibt der Zuschauer vor der Schaltzentrale mit der Frage:
+Der Film soll dabei das Thema der aufgezwungenen Auszeit im Aufzug 
+für Jedermann verdeutlichen und die Frage aufwerfen 
 
-Haben wir nicht alle unser Guilty Pleasure?
+„Was passiert eigentlich wenn sich bei einem Aufzug die Türen schließen?“
+
 
 ## Visual Storybeat
 
